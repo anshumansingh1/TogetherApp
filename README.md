@@ -12,7 +12,9 @@ The app provides activities like:
 
  - **Charades:** Act out the name by using different gestures, facial expressions, and body language. You are not allowed to talk. Long press title text to switch between Bollywood & Hollywood catalog."
 
-  - **Truth or Dare:** A classic social party game that relies on players choosing between being honest or being bold. It’s a staple for breaking the ice and learning secrets.
+ - **Truth or Dare:** A classic social party game that relies on players choosing between being honest or being bold. It’s a staple for breaking the ice and learning secrets.
+ 
+ - **Tic Tac Toe:** A classic two-player strategy game played on a 3x3 grid. Be the first player to place three of your marks in a continuous line— horizontally, vertically, or diagonally.
 
  - Stay tuned for more...
 
@@ -22,4 +24,4 @@ The app provides activities like:
  - And, last but not least, this app will always be ad free, because I personally hate ads.
 
 ## Screenshots
-<img src="/readme_asset/TogetherApp-Home_page.png" alt="Home Page" height="500"/> <img src="/readme_asset/TogetherApp-Charades.png" alt="Charades Page" height="500"/> <img src="/readme_asset/TogetherApp-NHIE.png" alt="NHIE Page" height="500"/> <img src="/readme_asset/TogetherApp-NHIE_Swiped.png" alt="NHIE Swiped Page" height="500"/> <img src="/readme_asset/TogetherApp-NHIE_Dark_Swiped.png" alt="NHIE Dark Swiped Page" height="500"/> <img src="/readme_asset/TogetherApp-TOD.png" alt="TOD Page" height="500"/> <img src="/readme_asset/TogetherApp-TOD_Expanded.png" alt="TOD expanded Page" height="500"/> <img src="/readme_asset/TogetherApp-About_page.png" alt="About Page" height="500"/>
+<img src="/readme_asset/TogetherApp-Home_page.png" alt="Home Page" height="500"/> <img src="/readme_asset/TogetherApp-Charades.png" alt="Charades Page" height="500"/> <img src="/readme_asset/TogetherApp-NHIE.png" alt="NHIE Page" height="500"/> <img src="/readme_asset/TogetherApp-NHIE_Swiped.png" alt="NHIE Swiped Page" height="500"/> <img src="/readme_asset/TogetherApp-NHIE_Dark_Swiped.png" alt="NHIE Dark Swiped Page" height="500"/> <img src="/readme_asset/TogetherApp-TOD.png" alt="TOD Page" height="500"/> <img src="/readme_asset/TogetherApp-TOD_Expanded.png" alt="TOD expanded Page" height="500"/> <img src="/readme_asset/TogetherApp-TTT.png" alt="About Page" height="500"/> <img src="/readme_asset/TogetherApp-About_page.png" alt="About Page" height="500"/>
